@@ -42,11 +42,11 @@ nav_menu:
   - name: 主页
     slug:
     icon: fas fa-home
-    url: https://xaoxuu.com/
+    url: /
   - name: 项目
     slug:
     icon: fas fa-flask
-    url: https://xaoxuu.com/projects/
+    url: /projects/
   - name: 博客
     slug: home
     icon: fas fa-rss
